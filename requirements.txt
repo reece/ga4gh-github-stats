@@ -1,0 +1,6 @@
+ggplot
+ipykernel
+matplotlib
+pandas
+pytz
+seaborn
